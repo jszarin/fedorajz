@@ -4,6 +4,15 @@ See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup i
 
 After setup, it is recommended you update this README to describe your custom image.
 
+This is silverblue-main with following:
+
+* Tailscale repo and tailscale
+* midnight-commander
+* fish
+* lutris
+* steam
+* brew support installed with automatic updates
+
 ## Installation
 
 > **Warning**  
