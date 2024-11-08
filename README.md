@@ -4,7 +4,7 @@ See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup i
 
 After setup, it is recommended you update this README to describe your custom image.
 
-This is silverblue-main with following:
+This is silverblue-main with following: (added packages)
 
 * Tailscale repo and tailscale
 * midnight-commander
